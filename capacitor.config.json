@@ -1,0 +1,10 @@
+{
+  "appId": "com.srmap.alternativeportal",
+  "appName": "SRMAP Alternative Portal",
+  "webDir": "frontend",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://ais-pre-x4ynrqtljas3hqeea3kok5-908845415465.asia-southeast1.run.app",
+    "cleartext": true
+  }
+}
